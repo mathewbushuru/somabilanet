@@ -1,3 +1,4 @@
+
 .navbar-default,a{
     -webkit-transition:all .35s;-moz-transition:all .35s
 }
@@ -29,7 +30,12 @@ p{
     font-size:16px;line-height:1.5;margin-bottom:20px
 }
 .bg-primary{
-    background-color:#F05F40
+    background-color:#F05F40;
+}
+.bg-primary-2{
+    background-color:#F05F40;
+    height: 5%;
+    color: #fff;
 }
 .bg-dark{
     background-color:#222;color:#fff
@@ -138,3 +144,5 @@ header .header-content .header-content-inner p{font-size:18px;max-width:80%;marg
 .btn-primary .badge{color:#F05F40;background-color:#fff}
 .btn{border:none;border-radius:300px;font-weight:700;text-transform:uppercase}
 .btn-xl{padding:15px 30px}::-moz-selection{color:#fff;text-shadow:none;background:#222}::selection{color:#fff;text-shadow:none;background:#222}img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;background:0 0}
+
+
